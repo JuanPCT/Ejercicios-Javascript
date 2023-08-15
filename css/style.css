@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(47, 47, 185);
+  font-size: 80px;
+}
+.btnRegister {
+  color: rgb(255, 255, 255);
+  background-color: rgb(38, 133, 33);
+}
+.btnShow {
+  color: rgb(255, 255, 255);
+  background-color: rgb(36, 28, 186);
+}
